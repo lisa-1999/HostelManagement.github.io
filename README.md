@@ -1,8 +1,0 @@
-                         : : : : : LOGIN DETAILS : : : : : 
-
-
-Login Admin      Username : admin
-                 Password :  Test@1234
-
-DON'T FORGET TO CREATE A DATABASE NAMING "hostel.sql" AND IMPORT THE SQL FILE AND RUN.
-WITHOUT THE DATABASE THE PROJECT WON'T RUN.
